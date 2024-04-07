@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SceneStream/static/css/main.7c5f687d.css",
+    "main.js": "/SceneStream/static/js/main.ea776be4.js",
+    "index.html": "/SceneStream/index.html",
+    "main.7c5f687d.css.map": "/SceneStream/static/css/main.7c5f687d.css.map",
+    "main.ea776be4.js.map": "/SceneStream/static/js/main.ea776be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5f687d.css",
+    "static/js/main.ea776be4.js"
+  ]
+}
